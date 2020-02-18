@@ -1,0 +1,5 @@
+123,Steve,1,857,master
+547,Mike,2,1200,phd
+135,Patrick,2,3000,phd
+222,Fernand,1,2300,master
+140,Genick,2,3200,phd
